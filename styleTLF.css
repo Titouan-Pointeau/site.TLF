@@ -1,0 +1,41 @@
+body{
+	background-color: rgb(229, 228, 204);
+	color: rgb(0,0,0);
+	font-family: Arvo , serif;
+
+}
+h1{font-size: 50px}
+h1,h2,h3{
+	font-family: nanum ghotic
+}
+h1,h2{
+	color : rgb(12,148,99);
+}
+h3{
+color: rgb(136, 158, 129);
+}
+
+.card-white{background: white;
+	padding:5px;
+	margin: 50px auto ;
+	box-shadow: 10px 10px 30px rgba(186, 199, 167);
+	border-radius: 20px; 
+}
+.container{
+		text-align: center;
+	margin: 10px 75px;
+}
+.pictures{
+	border-radius: 10px
+}
+
+a{text-decoration: none;
+	color: rgb(136, 158, 129) ;}
+	a:hover{color:rgb(229,223,223) }
+.list-inline li {
+	display: inline;
+	padding: 20px
+}
+.list-inline i{
+ font-size: 30px
+}
